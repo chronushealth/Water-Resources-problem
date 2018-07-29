@@ -13,4 +13,14 @@ In particular, your mathematical model must address:
 
 Your model will be used to discuss the economic, physical, and environmental implications of your strategy. Provide a non-technical summary outlining your approach, its feasibility and costs and why it is the “best water strategy choice.”
 
-Notes: Use publicly available datasets and not assumed data.
+
+# Submission
+* Language: Python
+* Use public databases, do not assume data. Assumptions need to explained and have strong reasoning based on data and your models.
+* Upload the code, results summary and your analysis to your private github respository 
+* Share the link by email once completed.
+
+*Disclaimer: We have not been contracted by the Federal government for any work nor are we a water consulting company advising any government entity on any strategy. This is a hyothetical scenario for screen job applicants applying to Chronus Health*
+
+
+
