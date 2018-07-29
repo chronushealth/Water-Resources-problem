@@ -21,7 +21,7 @@ Your model will be used to discuss the economic, physical, and environmental imp
 * Share the link by email once completed.
 
 ## Disclaimer 
-*We have not been contracted by the Federal government for any work nor are we a water consulting company advising any government entity on any strategy. This is a hyothetical scenario for screen job applicants applying to Chronus Health*
+*We have not been contracted by the Federal government for any work nor are we a water consulting company advising any government entity on any strategy. This is a hyothetical scenario for screening job applicants applying to Chronus Health*
 
 
 
