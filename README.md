@@ -2,9 +2,7 @@
 Water scarcity modeling (2030)
 
 ## Description
-Fresh water is an important resource globally with several factor impacting fresh water reserves. Our startup company Chronus Water Health Inc. has been contracted by the US Federal government to advice and help them build a strategy road map.
-
-As the only data scientist/engineer on the team your role is critical in this project. 
+Fresh water is an important resource globally with several factors impacting fresh water reserves. Our startup company *Chronus Water Health Inc.* has been contracted by the US Federal government to advice and help them build a strategy road map. As the only data scientist/engineer on the team your role is critical in this project. 
 
 Build a mathematical model for determining an effective, feasible, and cost-efficient water strategy meet the projected water needs of United States in 2030, and identify the best water strategy. 
 
