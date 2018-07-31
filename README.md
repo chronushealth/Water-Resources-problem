@@ -34,6 +34,11 @@ Your model will be used to discuss the economic, physical, and environmental imp
 * 1- 3 hours hours to code
 ### Total time < 3 - 6 hours
 
+## Example Datasets
+* US population: https://www.census.gov/programs-surveys/popproj/data/datasets.All.html
+* Estimated use of water in the United states in 2010 https://pubs.usgs.gov/circ/1405/pdf/circ1405.pdf
+
+
 ## Disclaimer 
 *We have not been contracted by the Federal government for any work nor are we a water consulting company advising any government entity on any strategy. This is a hyothetical scenario for screening job applicants applying to Chronus Health*
 
