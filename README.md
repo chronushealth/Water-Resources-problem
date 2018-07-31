@@ -40,5 +40,6 @@ Your model will be used to discuss the economic, physical, and environmental imp
 * did you read this 1: send an email to schedule an initial discussion before you start solving and coding
 * did you read this 2: Simplify, Simplify, Simplify
 * did you read this 3: Whoa !! did you just say -I dont have time for this !!  or did you think what are we trying to get you to do here. Well, we are evaluating your analytical and coding capabilities thats needed for this position - its that simple - so simplify the problem as much as you can. We don't need a complete solution.  If you could solve or predict the water scarcity issues in a coding interview for the entire continental United States - we may give you medal or even reach out to our hypothetical Federal government contact to give you a medal.
+* did you read this 4: In hindsight, we are also looking if have attention to details to see if you read all the way to the end.
 
 
