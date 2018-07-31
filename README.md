@@ -40,7 +40,7 @@ Your model will be used to discuss the economic, physical, and environmental imp
 
 
 ## Disclaimer 
-*We have not been contracted by the Federal government for any work nor are we a water consulting company advising any government entity on any strategy. This is a hyothetical scenario for screening job applicants applying to Chronus Health*
+*We have not been contracted by the Federal government for any work nor are we a water consulting company advising any government entity on any strategy. This is a hypothetical scenario for screening job applicants applying to Chronus Health*
 
 * did you read this 1: send an email to schedule an initial discussion before you start solving and coding
 * did you read this 2: Simplify, Simplify, Simplify
